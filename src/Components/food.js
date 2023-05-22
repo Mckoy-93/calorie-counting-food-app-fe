@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-export default function Food(food) {
+export default function food(food) {
   return (
     <div className='Food'>
         <div>

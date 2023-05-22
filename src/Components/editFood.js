@@ -4,7 +4,7 @@ import axios from "axios";
 
 const API = process.env.REACT_APP_API_URL;
 
-export default function EditFood() {
+export default function editFood() {
   const [searchFood, setSearchFood] = useState({});
   const [input, setInput] = useState('');
 
