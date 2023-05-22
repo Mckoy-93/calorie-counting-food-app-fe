@@ -6,7 +6,7 @@ import ProgressBar from "./progressBar";
 
 const API = process.env.REACT_APP_API_URL;
 
-export default function foods() {
+export default function Foods() {
   const [foods, setFoods] = useState([]);
   const [checked, setChecked] = useState(false);
   const [totCal, setTotCal] = useState(2000);
