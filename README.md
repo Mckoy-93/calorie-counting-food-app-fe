@@ -1,3 +1,12 @@
+# Calorie-counting-food-app-frontend
+
+Link to trello: https://trello.com/b/jZi8fCD8/markeya-mckoy-carree-full-stack-project
+
+Render backend deployment: https://markeyas-calorie-counting-app.onrender.com
+
+Netlify frontend deployment: https://main--marvelous-travesseiro-31322f.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
